@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int a = 0, i = 0, j = 0;
     printf("Enter a number: ");
